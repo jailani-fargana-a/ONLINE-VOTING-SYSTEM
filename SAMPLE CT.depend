@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678610714 source:c:\users\lemovo\desktop\c\sample ct\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
